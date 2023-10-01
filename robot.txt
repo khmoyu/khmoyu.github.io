@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+Allow: /home/
+Allow: /archives/
+Allow: /about/
+Allow: /disclaimers/
+Allow: /friends/
+Allow: /site/
+Disallow: /vendors/
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /vendors/
+Disallow: /fancybox/
+Sitemap: http://www.khmoyu.cn/sitemap.xml
+Sitemap: http://www.khmoyu.cn/baidusitemap.xml
+
